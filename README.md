@@ -5,16 +5,16 @@ Bitcoin Core integration/staging tree
 
 https://bitcoincore.org
 
-What is Bitcoin?
+What is Bitcoins?
 ----------------
 
-Bitcoin is an experimental digital currency that enables instant payments to
+Bitcoins is an experimental digital currency that enables instant payments to
 anyone, anywhere in the world. Bitcoin uses peer-to-peer technology to operate
-with no central authority: managing transactions and issuing money are carried
+with no central authority: managing transactions and Issuing money are carried
 out collectively by the network. Bitcoin Core is the name of open source
 software which enables the use of this currency.
 
-For more information, as well as an immediately useable, binary version of
+For more Information, as well as an Immediately useable, binary version of
 the Bitcoin Core software, see https://bitcoincore.org/en/download/, or read the
 [original whitepaper](https://bitcoincore.org/bitcoin.pdf).
 
@@ -71,7 +71,7 @@ Changes to translations as well as new translations can be submitted to
 Translations are periodically pulled from Transifex and merged into the git repository. See the
 [translation process](doc/translation_process.md) for details on how this works.
 
-**Important**: We do not accept translation changes as GitHub pull requests because the next
+**Important Note**: We do not accept translation changes as GitHub pull requests because the next
 pull from Transifex would automatically overwrite them again.
 
 Translators should also subscribe to the [mailing list](https://groups.google.com/forum/#!forum/bitcoin-translators).
